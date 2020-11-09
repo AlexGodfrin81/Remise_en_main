@@ -26,6 +26,7 @@ public class Inversor {
         System.out.println(i.inverse("Alex"));
         System.out.println(i.inverse("Xela"));
         System.out.println("Potit Chat");
+        System.out.println("ceci apparait dans la branche test");
     }
     
 }
