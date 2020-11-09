@@ -25,6 +25,7 @@ public class Inversor {
         Inversor i = new Inversor();
         System.out.println(i.inverse("Alex"));
         System.out.println(i.inverse("Xela"));
+        System.out.println("Potit Chat");
     }
     
 }
